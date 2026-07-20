@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://maps.google.com/?q=Costa+Rica"><img src="https://img.shields.io/badge/Location-Costa_Rica-64748b?style=flat-square" alt="Location"></a>
-  <a href="https://wa.me/50662956514"><img src="https://img.shields.io/badge/Phone-+506_7253_9097-2563eb?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone"></a>
+  <a href="https://wa.me/50662956514"><img src="https://img.shields.io/badge/Phone-+506_6295_6514-2563eb?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone"></a>
   <a href="mailto:rodneymr1998josue@gmail.com"><img src="https://img.shields.io/badge/Email-rodneymr1998josue@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/JosueMongeRam"><img src="https://img.shields.io/badge/GitHub-JosueMongeRam-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
