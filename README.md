@@ -194,5 +194,5 @@ Client Communication &middot; Requirements Analysis &middot; Problem Solving &mi
 <p align="center">
   Josué Monge Ramírez &mdash;
   <a href="mailto:rodneymr1998josue@gmail.com">rodneymr1998josue@gmail.com</a> &mdash;
-  <a href="tel:+50672539097">+506 7253-9097</a>
+  <a href="tel:+50672539097">+506 6295-6514</a>
 </p>
